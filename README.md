@@ -1,4 +1,15 @@
+# My blog
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cee813f0-9dbe-4a19-a331-de38e5e92e82/deploy-status)](https://app.netlify.com/sites/mroyme/deploys)
+
+Insert description here.
+
+---
+
+This blog was created using:
+
 ![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
+
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
 
@@ -9,15 +20,9 @@ A customizable blog starter using:
 - Built-in [MDX](https://mdxjs.com/) v1 support
 - Includes modern design with dark & light themes
 
-> 🎉 We’re really excited about the Bejamas + Netlify collaboration and we were going to celebrate it with some swag, but we realized we could put that money into supporting OSS and our ecosystem even more! After all, who needs another t-shirt or sticker?!
->
-> [Click this link](https://oss-form.netlify.app/) to vote for your favorite Open Source project!
-
 ![Preview of blog theme. Author named Jay Doe and blog's name is "Next.js Blog Theme" with one blog post](nextjs-blog-theme-preview.png)
 
 [Take a gander at the demo.](https://bejamas-nextjs-blog.netlify.app)
-
-[Click here to watch the template walkthrough!](https://www.youtube.com/watch?v=U2eTCO_xiHc)
 
 ## Getting Started
 
